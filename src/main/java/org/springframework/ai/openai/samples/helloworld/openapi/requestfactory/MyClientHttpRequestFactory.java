@@ -15,6 +15,7 @@ public class MyClientHttpRequestFactory extends SimpleClientHttpRequestFactory {
         super.setProxy(proxy);
     }
 
+    @Override
     public ClientHttpRequest createRequest(URI uri, HttpMethod httpMethod) throws IOException {
         return super.createRequest(uri,httpMethod);
     }

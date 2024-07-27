@@ -2,9 +2,9 @@ spring:
   ai:
     proxy: # 需要改为自己的代理
       host: 127.0.0.1
-      port: 1080
+      port: 7890
     openai:
-      api-key: xxxx
+      api-key:
 #      base-url: https://one.aiskt.com 这是国内的一个网站，注册送1美元的额度，可以用来测试，开启这个选项可以注释掉代理的配置
       chat:
         options:

@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>ai-openai-helloworld</artifactId>
+	<artifactId>spring-ai-chatgpt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ai-openai-helloworld</name>
-	<description>Simple AI Application using bOpenAPI Service</description>
+	<name>spring-ai-chatgpt</name>
+	<description>Simple AI Application using OpenAPI Service</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
